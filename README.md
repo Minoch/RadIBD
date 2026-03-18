@@ -1,6 +1,6 @@
 # RadIBD: Vision-Language Transfer Learning for CT Enterography
 
-This repository contains the code for **"Representation geometry shapes task performance in vision-language modeling for CT enterography: a classification-retrieval trade-off with implications for report generation"**.
+This repository contains the code for **"Representation geometry shapes task performance in vision-language modeling for CT enterography"**.
 
 ## Key Findings
 
